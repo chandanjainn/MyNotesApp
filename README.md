@@ -1,7 +1,7 @@
 # MyNotesApp
 Simple Node.js app to keep notes
 
-Menu driven app to
+Menu driven app to\n
 1.Add a note
 2.Delete a note
 3.List all notes
